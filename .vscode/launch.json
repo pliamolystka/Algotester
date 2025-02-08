@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/tarasbovsunovskij/Library/Mobile Documents/com~apple~CloudDocs/Університет /Основи програмування/Практика/1 курс/Algotester/Task 2021",
+      "program": "/Users/tarasbovsunovskij/Library/Mobile Documents/com~apple~CloudDocs/Університет /Основи програмування/Практика/1 курс/Algotester/Task 2021/build/Debug/outDebug"
+    }
+  ]
+}
